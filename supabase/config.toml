@@ -1,0 +1,4 @@
+project_id = "fmbdtzjwzzeqkmsafvow"
+
+[functions.bot-campanha]
+verify_jwt = false

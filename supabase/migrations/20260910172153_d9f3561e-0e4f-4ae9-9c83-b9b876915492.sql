@@ -1,0 +1,2 @@
+REVOKE EXECUTE ON FUNCTION public.handle_new_user() FROM PUBLIC;
+REVOKE EXECUTE ON FUNCTION public.tg_set_updated_at() FROM PUBLIC;
